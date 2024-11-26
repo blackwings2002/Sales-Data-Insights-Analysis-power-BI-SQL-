@@ -24,7 +24,7 @@
 - The task is to find out what factors is causing trend and provide meaningful insights to solve the key problem in the business.
 
 # [Work Environment](#work-environment)
-- This project is done in mysql workbench enviornment and power BI workspace to fetch,analyse and build visuals from the data.
+- This project is done in **Mysql workbench enviornment** and **Power BI** workspace to fetch,analyse and build visuals from the data.
 
 # [Steps Taken](#steps-taken)
 - firstly, the data is taken from the database of the company and fetched into power BI . Then , analysis is done over this.
@@ -37,8 +37,8 @@
   insight to make decision.
 
 # [Key Findings](#key-findings)
-- **Delhi Market ** is giving more tha 50% sales but only giving 22 % of profit margin contribution.
-- Bhubaneswar having 0.11% of revenue contribution but giving 10% of profit margin.
+- **Delhi Market** is giving more tha 50% sales but only giving 22 % of profit margin contribution.
+- Bhubaneswar having 0.11% of revenue contribution but **giving 10% of profit margin.**
 - Mumbai is **topping the profit margin contribution**  with 23% of profit where it is having 14%of sales.
 - customer wise **Excel store** is giving highest profit with approx 6% sales.
 
@@ -47,6 +47,6 @@
 - This dashboard can help in increasing the sales by 7% in the next quarter.
 
 ## [Summary](#summary)
-This project focus on identifying the key factors causing the downward trend of Atliq hardwares' sales. Indentifying the market wise, customer wise profit anlysis and year wise trends , can help the stakeholders to implement strategies to overcome it.finally , this dashboard aims to make a data-driven decision for the growth of company.
+This project focus on identifying the key factors causing the downward trend of **Atliq hardwares'** sales. Indentifying the market wise, customer wise profit anlysis and year wise trends , can help the stakeholders to implement strategies to overcome it.finally , this dashboard aims to make a data-driven decision for the growth of company.
 
 
