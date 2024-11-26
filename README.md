@@ -1,5 +1,11 @@
 # Sales insight Analysis (Power BI | SQL) 
 
-1.[Overview](#overview)
+- [Overview of the Project](#overview-of-the-project)
+- [Problem Statement](#problem-statement)
+- [Tools Used](#tools-used)
+- [Key Findings](#key-findings)
+- [Challenges Faced](#challenges-faced)
+- [Summary](#summary)
 
-# overview- 
+
+# Overvie_of_the_project
