@@ -24,8 +24,7 @@
 - The task is to find out what factors is causing trend and provide meaning insights to solve the key problem in the business.
 
 ## [Work Environment](#work-environment)
-- Outline the tools, technologies, and platforms used during the project.
-- Mention the development environment, team structure, and any key collaborators.
+- This project is done in mysql workbench enviornment and power BI workspace to fetch,analyse and build visuals from the data.
 
 ## [Steps Taken](#steps-taken)
 - firstly, the data is taken from the database of the company and fetched into power BI . Then , analysis is done over this.
@@ -48,17 +47,6 @@
 - This dashboard can help in increasing the sales by 7% in the next quarter.
 
 ## [Summary](#summary)
-this project focus on identifying the key factors causing the downward trend of Atliq hardwares' sales.by indetifying the markey wise, customer wise profit anlysis and year wise trends can help the stakeholder to implement strategies to overcome it.
+This project focus on identifying the key factors causing the downward trend of Atliq hardwares' sales. Indentifying the market wise, customer wise profit anlysis and year wise trends , can help the stakeholders to implement strategies to overcome it.finally , this dashboard aims to make a data-driven decision for the growth of company.
 
-## [Repository Structure](#repository-structure)
-- Describe the organization of the project's repository (for code or documentation).
-- Mention the important files and directories, and their purpose.
-
-## [Contributing](#contributing)
-- Outline the guidelines for contributing to the project.
-- Include any processes for submitting pull requests, reporting issues, or suggesting features.
-
-## [License](#license)
-- Mention the licensing information for the project (e.g., MIT, GPL).
-- Provide a brief description of the terms under which the project is distributed.
 
